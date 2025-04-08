@@ -6,3 +6,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.sora {
+  font-family: "Sora", sans-serif;
+}
+
+.poppins{
+  font-family: "Poppins", sans-serif;
+}

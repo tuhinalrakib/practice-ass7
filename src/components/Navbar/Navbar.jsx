@@ -4,7 +4,7 @@ import { IoIosNotificationsOutline } from "react-icons/io";
 
 const Navbar = () => {
     return (
-        <div className="w-full bg-base-100 shadow-sm">
+        <div className="poppins w-full bg-base-100 shadow-sm">
             <div className="navbar px-[10%]">
                 <div className="navbar-start">
                     <img src="images/AuctionGallery.png" alt="" />
