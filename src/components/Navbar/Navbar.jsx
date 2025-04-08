@@ -18,9 +18,9 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                  <div class="avatar indicator">
-                    <a class="indicator tab tab-active">
-                      <span class="indicator-item badge">8</span>
+                  <div className="avatar indicator">
+                    <a className="indicator tab tab-active">
+                      <span className="indicator-item badge">8</span>
                     </a>
                   </div>
                   <IoIosNotificationsOutline size={35} className='bg-gray-300 rounded-2xl mr-5' />

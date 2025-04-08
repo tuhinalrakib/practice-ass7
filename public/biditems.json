@@ -5,54 +5,54 @@
         "title": "Vintage Leica M3 Camera",
         "description": "A classic vintage Leica M3 camera in excellent working condition, ideal for photography enthusiasts and collectors.",
         "currentBidPrice": 1500.00,
-        "timeLeft": "2d 5h 12m",
+        "timeLeft": "5 days left",
         "bidsCount": 25,
-        "image": "https://example.com/images/vintage-leica-m3-camera.jpg"
+        "image": "images/Bid1-min.png"
       },
       {
         "id": "2",
         "title": "1965 Gibson SG Standard Electric Guitar",
         "description": "A rare 1965 Gibson SG Standard electric guitar, known for its iconic sound and timeless design, perfect for musicians and collectors.",
         "currentBidPrice": 2200.00,
-        "timeLeft": "1d 10h 43m",
+        "timeLeft": "3 days left",
         "bidsCount": 18,
-        "image": "https://example.com/images/1965-gibson-sg.jpg"
+        "image": "images/Bid2-min.png"
       },
       {
         "id": "3",
         "title": "Original Apple Macintosh 128K (1984)",
         "description": "A fully functional 1984 Original Apple Macintosh 128K, a true piece of computing history, complete with original box and accessories.",
         "currentBidPrice": 3200.00,
-        "timeLeft": "6h 30m",
+        "timeLeft": "6 days left",
         "bidsCount": 35,
-        "image": "https://example.com/images/apple-macintosh-128k.jpg"
+        "image": "images/Bid3-min.png"
       },
       {
         "id": "4",
         "title": "Rolex Submariner 16610",
         "description": "An iconic Rolex Submariner 16610 watch, known for its classic design, precision, and durable build, a perfect addition to any luxury watch collection.",
         "currentBidPrice": 8500.00,
-        "timeLeft": "12h 15m",
+        "timeLeft": "4 days left",
         "bidsCount": 40,
-        "image": "https://example.com/images/rolex-submariner-16610.jpg"
+        "image": "images/Bid4-min.png"
       },
       {
         "id": "5",
         "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
         "description": "A rare first edition of 'The Great Gatsby' by F. Scott Fitzgerald, a timeless literary masterpiece in near-mint condition.",
         "currentBidPrice": 4500.00,
-        "timeLeft": "3d 2h 0m",
+        "timeLeft": "3 days left",
         "bidsCount": 15,
-        "image": "https://example.com/images/the-great-gatsby-first-edition.jpg"
+        "image": "images/Bid6-min.png"
       },
       {
         "id": "6",
         "title": "Mid-Century Modern Eames Lounge Chair",
         "description": "An iconic Mid-Century Modern Eames Lounge Chair, known for its ergonomic design and luxurious leather upholstery, perfect for any stylish home or office.",
         "currentBidPrice": 4000.00,
-        "timeLeft": "1d 8h 20m",
+        "timeLeft": "2 days left",
         "bidsCount": 22,
-        "image": "https://example.com/images/eames-lounge-chair.jpg"
+        "image": "images/Bid5-min.png"
       }
     ]
   }
